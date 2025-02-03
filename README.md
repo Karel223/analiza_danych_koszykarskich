@@ -1,1 +1,1 @@
-# analiza_danych_koszykarskich
+# analiza danych koszykarskich na przykładzie Euroligii 
